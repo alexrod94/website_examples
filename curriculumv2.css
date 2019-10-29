@@ -1,0 +1,45 @@
+#identity {
+    color: #04a55a;
+}
+
+.description {
+    color: #969494;
+}
+
+hr {
+    border-color: #969494;
+}
+
+#profile-pic {
+    width: 100%;
+}
+
+.icons {
+    height: 30px;
+}
+
+body {
+    background-color: black;
+}
+
+.menu {
+    background-color: #04a55a;
+}
+
+.btn {
+    background-color: #04a55a;
+    border: none;
+    color: white;
+}
+html {
+    scroll-behavior: smooth;
+}
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .row {
+        margin-left: 1%;
+    }
+
+    p{
+        font-size: x-large;
+    }
+}
